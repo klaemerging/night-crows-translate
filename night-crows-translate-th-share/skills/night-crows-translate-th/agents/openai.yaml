@@ -1,0 +1,4 @@
+﻿interface:
+  display_name: "Night Crows TH Translator"
+  short_description: "Translate Night Crows text and TXT/CSV files to Thai"
+  default_prompt: "Use $night-crows-translate-th to translate this Night Crows text or TXT/CSV file from English to Thai while enforcing the glossary and preserving formatting."
